@@ -23,4 +23,4 @@
 
 ***
 
-`vue create `
+`vue create .`
